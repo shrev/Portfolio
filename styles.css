@@ -27,9 +27,23 @@ body
 {
   height :100% !important;
 }
+
+#img1
+{
+    width: auto;
+    height: 95%;
+
+}
+
+#list
+{
+  position: relative;
+}
 .logo {
-    margin-top:50px;
-    max-height: 130px;
+    text-align: center
+    margin-top:20px;
+    max-height: 180px;
+
 }
 .logo>img {
     margin-top: 30px;
@@ -47,7 +61,7 @@ body
    
 }
 .list> li, h5 {
-    padding: 5px 0px 5px 40px;
+    text-align: center;
 }
 .list>li:hover {
     background-color: rgba(255, 255, 255, 0.2);
@@ -171,7 +185,10 @@ hr
    text-decoration : underline !important;
 }
  
-
+.edu
+{
+  margin-top: 0px !important;
+}
 .icon
 {
   width:25px;
@@ -187,7 +204,6 @@ hr
 
 #name
 {
-   margin-top:50px;
    text-align:center;
    font-size : 15px;
    color : white;
@@ -228,7 +244,13 @@ hr
   border:1px solid black;
 }
 
-
+.img2
+{
+  height :auto;
+  width :100%;
+  max-height: 100px;
+  max-width:100px;
+}
 
 
 
