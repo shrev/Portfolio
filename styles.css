@@ -9,7 +9,7 @@
  
     background: linear-gradient(#F17153, #F58D63, #f1ab53); */
 
-    background-color:  #85929E  ; 
+    background-color:  #273746 ; 
     position: fixed !important; 
     padding: 0px;
     height: 100% !important;
@@ -41,12 +41,12 @@ body
 }
 .logo {
     text-align: center
-    margin-top:20px;
+    margin-top:50px;
     max-height: 180px;
 
 }
 .logo>img {
-    margin-top: 30px;
+    margin-top: 70px;
     padding: 3px;
     border: 3px solid white;
     border-radius: 100%;
@@ -84,9 +84,8 @@ body
     width: 100%;
     height:500px;
     overflow: hidden;
-    margin: 0;
-    padding: 0;
-    z-index: 1;
+    margin:0;
+    padding-top:80px;
     
  
 
@@ -145,14 +144,14 @@ span#close {
 
 hr
 {
-  border-color: #D7DBDD;
+  border-color:  #273746;
 }
 
 .content
 {
-  margin-top:-150px;
+  margin-top:-280px;
   padding-left: 60px;
-  padding-right: 60px;
+  padding-right:60px;
   -moz-box-sizing:border-box;
   box-sizing:border-box; 
   -webkit-box-sizing:border-box; 
@@ -168,20 +167,20 @@ hr
   box-sizing:border-box; 
   -webkit-box-sizing:border-box; 
   -ms-box-sizing:border-box;
-     color:#D3D3D3;
+     color: #273746;
    font-size : 15px;
 }
 
 #mail
 { 
-   color:#D3D3D3 !important;
+   color: #273746 !important;
    text-decoration : none !important;
    margin-right:10px;
 }
  
 #mail:hover
 { 
-   color:#D3D3D3 !important;
+   color: #273746 !important;
    text-decoration : underline !important;
 }
  
